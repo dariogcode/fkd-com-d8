@@ -1,0 +1,14 @@
+uuid: 4edcd98d-fcc8-4e44-9795-928508f669d4
+name: fkd-com-d8
+mail: dario.php@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
